@@ -245,17 +245,17 @@ Version      : 1.1.9
 .card2{
 	padding: 30px;
 	cursor: pointer;
-	transition: all 500ms;
+	/* transition: all 500ms; */
 	margin-bottom: 25%;
 	margin-top: 5%;
 	border-radius: 16px;
-	background: #000000;
-	border: 1px solid rgb(255, 255, 0);
+	background: #fafafa;
+	/* border: 1px solid rgb(255, 255, 0);
 	border-bottom: 20px solid linear-gradient(45deg, rgb(255, 255, 0) 0%, rgb(255, 255, 0)20%, rgb(255, 255, 0) 50%);
 	border-left: 5px solid #ffff00;
 	border-right: 5px solid #ffff00;
 	border-top: 5px solid #ffff00;
-	border-radius: 50px;
+	border-radius: 50px; */
 }
 .card2 img{
 	object-fit: contain;
@@ -263,20 +263,20 @@ Version      : 1.1.9
 	height: 180px;
 }
 
-.card2:hover{
+/* .card2:hover{
 	padding: 30px;
 	cursor: pointer;
 	transition: all 500ms;
 	margin-bottom: 25%;
 	margin-top: 5%;
 	border-radius: 16px;
-	background: #000000;
+	background: #eeebeb;
 	border: 1px solid rgba(0, 0, 0, 0.18);
-	border-bottom: 5px solid #ffff00;
+	/* border-bottom: 5px solid #ffff00;
 	border-left: 5px solid #ffff00;
 	border-right: 5px solid #ffff00;
 	border-top: 20px solid #ffff00;
-	border-radius: 50px;
+	border-radius: 50px; */
 	
 }
 .card2:hover img[src="assests/stakingImages/diamond.png"]{
@@ -308,7 +308,7 @@ Version      : 1.1.9
 	 transform: scale(1.005);
 
 	
-	
+	 */
 }
 
 .-contain img {
@@ -318,7 +318,8 @@ Version      : 1.1.9
 
 
 .neonText {
-	color: white !important;
+	color: rgb(0, 0, 0) !important;
+	font-size: 30px;
 
   }
   
@@ -331,7 +332,7 @@ Version      : 1.1.9
 
 /* CSS */
 .button-27 {
-  background: linear-gradient(to bottom right, #ffff00, #ffff00);
+  background: linear-gradient(to bottom right, #0e0e00, #0e0e00);
   border: 0;
   border-radius: 12px;
   color: #FFFFFF !important;
