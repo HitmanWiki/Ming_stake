@@ -980,15 +980,15 @@
                                 }), (0,
                                 a.jsx)("div", {
                                     className: "staking_text staking_text_light",
-                                    children: "15 - 29 days 7.5%,"
+                                    children: "15 - 29 days 4%,"
                                 }), (0,
                                 a.jsx)("div", {
                                     className: "staking_text staking_text_light",
-                                    children: "8 - 14 days 15%,"
+                                    children: "5 - 14 days 5%,"
                                 }), (0,
                                 a.jsx)("div", {
                                     className: "staking_text staking_text_light mb-2",
-                                    children: "0 - 7 days 25%"
+                                    children: "0 - 4 days 8%"
                                 }), (0,
                                 a.jsx)("div", {
                                     className: "staking_text staking_text_light",
